@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.pnpm-store/
+.openai/
+.DS_Store
+*.log
